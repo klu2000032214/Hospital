@@ -5,7 +5,8 @@
 ### Homepage
 ![homepage snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/homepage.png?raw=true)
 ### Admin Dashboard
-![dashboard snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/admin_dashboard.png?raw=true)
+<img width="960" alt="image" src="https://github.com/klu2000032214/Hospital/assets/97324581/7b757f40-324c-43ff-a1e8-ff93b5efe12b">
+
 ### Invoice
 ![invoice snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/invoice.png?raw=true)
 ### Doctor list
