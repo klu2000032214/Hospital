@@ -8,11 +8,12 @@
 ### Admin Dashboard
 <img width="960" alt="image" src="https://github.com/klu2000032214/Hospital/assets/97324581/7b757f40-324c-43ff-a1e8-ff93b5efe12b">
 
-### Invoice
-![invoice snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/invoice.png?raw=true)
+### Patient Info
+<img width="960" alt="image" src="https://github.com/klu2000032214/Hospital/assets/97324581/c516b872-f85b-446b-806e-e7ba687a6112">
+
 ### Doctor list
-![doctor snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/admin_doctor.png?raw=true)
----
+<img width="960" alt="image" src="https://github.com/klu2000032214/Hospital/assets/97324581/7e4625b7-c361-48c5-94c8-b5832eb91873">
+
 ## Functions
 ### Admin
 - Signup their account. Then Login (No approval Required).
