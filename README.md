@@ -3,7 +3,8 @@
 
 ## screenshots
 ### Homepage
-![homepage snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/homepage.png?raw=true)
+<img width="960" alt="image" src="https://github.com/klu2000032214/Hospital/assets/97324581/85c2c5e2-d561-4461-af66-c6f07e1719b5">
+
 ### Admin Dashboard
 <img width="960" alt="image" src="https://github.com/klu2000032214/Hospital/assets/97324581/7b757f40-324c-43ff-a1e8-ff93b5efe12b">
 
